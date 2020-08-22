@@ -6,7 +6,7 @@
 
 #### It is the app used to create customer database using SQLite and it has feature to change themes dynamically on pressing Image button. It also has welcome SplashScreen. And in List adapter on pressing any item we can delete it. So, it provides basic CRUD operations.
 
-*minSdkVersion 16*
+*minSdkVersion 16* \
 *targetSdkVersion 30*
 *versionCode 1*
 *versionName "1.0"*
