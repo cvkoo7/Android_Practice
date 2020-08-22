@@ -11,7 +11,7 @@
 ####versionCode 1
 ####versionName "1.0"
 
-![Spark-Beta icon](https://github.com/cvkoo7/Spark/blob/master/app/src/main/res/mipmap-xxxhdpi/app_icon.png)
+![App icon](https://www.creativefreedom.co.uk/wp-content/uploads/2013/03/00-android-4-0_icons.png)
 
 
 <p float="center"> 
